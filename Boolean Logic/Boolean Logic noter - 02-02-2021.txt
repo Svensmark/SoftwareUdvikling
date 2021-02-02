@@ -1,0 +1,13 @@
+Something that is always true is called a tautology
+tautologies are written: t. (bold)
+a = a is a tautology.
+
+Something that can never be true is called a contradiction
+contradictions are written: c. (bold)
+a =/= is a contradiction.
+
+Truth table to prove distribute law
+
+a /\ ( b \/ a ) = (a \/ b) + (a \/ c)
+
+
